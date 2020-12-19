@@ -11,6 +11,7 @@
     ],
     "require": {
         "normphp/helper": "dev-master",
+        "normphp/crontab": "dev-master",
         "php": ">=7.0.0"
     },
     "repositories": {
